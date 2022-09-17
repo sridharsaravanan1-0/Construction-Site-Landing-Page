@@ -2,4 +2,4 @@
 I have developed an landing page for NUUK construction, it's an responsive landing page.
 
 Mockup
-<img src="./img/pic1.png">
+<img src="./img/Mockup.jpg">
